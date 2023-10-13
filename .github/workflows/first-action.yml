@@ -14,5 +14,5 @@ jobs:
 
     - name: Third Step
       run: |
-          echo: "Hello, First line"
-          echo: "Hello, Second line"
+          echo "Hello, First line"
+          echo "Hello, Second line"
