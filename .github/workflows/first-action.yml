@@ -10,4 +10,4 @@ jobs:
       run: echo "Hello , I am first step"
     
     - name: Second Step
-      run: echo "Hi, I am second step
+      run: echo "Hi, I am second step"
