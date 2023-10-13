@@ -11,3 +11,8 @@ jobs:
     
     - name: Second Step
       run: echo "Hi, I am second step"
+
+    - name: Third Step
+      run: |
+          echo: "Hello, First line"
+          echo: "Hello, Second line"
